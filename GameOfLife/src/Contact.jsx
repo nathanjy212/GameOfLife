@@ -9,13 +9,13 @@ export default function Contact() {
             <div className="collapse navbar-collapse" id="navLinks">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a href="#" className="nav-link">ABOUT</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/about" className="nav-link">ABOUT</a>
                 </li>
                 <li className="nav-item">
-                  <a href="#" className="nav-link">GAME</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/" className="nav-link">GAME</a>
                 </li>
                 <li className="nav-item">
-                  <a href="#" className="nav-link underline">CONTACT</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/contact" className="nav-link underline">CONTACT</a>
                 </li>
               </ul>
             </div>
