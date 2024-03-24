@@ -6,20 +6,20 @@ export default function About() {
     return (
         <div>
           <nav id="mainNavbar" className="navbar navbar-dark bg-dark navbar-expand-lg fixed-top">
-            <a href="#" className="navbar-brand">HOME</a>
+            <a href="https://nathan-yap-project2-gameoflife.onrender.com/about" className="navbar-brand">HOME</a>
             <button className="navbar-toggler" data-toggle="collapse" data-target="#navLinks">
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navLinks">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a href="#" className="nav-link underline">ABOUT</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/about" className="nav-link underline">ABOUT</a>
                 </li>
                 <li className="nav-item">
-                  <a href="#" className="nav-link">GAME</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/" className="nav-link">GAME</a>
                 </li>
                 <li className="nav-item">
-                  <a href="#" className="nav-link">CONTACT</a>
+                  <a href="https://nathan-yap-project2-gameoflife.onrender.com/contact" className="nav-link">CONTACT</a>
                 </li>
               </ul>
             </div>
