@@ -1,0 +1,21 @@
+body {
+    background: #f5d9d5;
+}
+
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 1.5rem;
+}
+
+.top-margin {
+    padding-top: 80px;
+}
+
+.underline {
+    text-decoration: underline;
+}

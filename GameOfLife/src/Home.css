@@ -1,0 +1,14 @@
+.text {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+
+.move-left {
+  padding-left: 20px;
+}
+
+
+.top-margin {
+  padding-top: 80px;
+}
